@@ -1,2 +1,2 @@
 # Register.Cost
-Registration Fee Computation in Philippines
+Fee Computation for the real property registration in Philippines
